@@ -1,0 +1,15 @@
+[submodule "Targets/OBD2PRO_WIFI_CC32XX"]
+	path = Targets/OBD2PRO_WIFI_CC32XX
+	url = https://github.com/intrepidcs/OBD2PRO_WIFI_CC32XX.git
+[submodule "Targets/OBD2PRO_BLE_NRF52"]
+	path = Targets/OBD2PRO_BLE_NRF52
+	url = https://github.com/intrepidcs/OBD2PRO_BLE_NRF52.git
+[submodule "Targets/VALUECAN4_STM32F301"]
+	path = Targets/VALUECAN4_STM32F301
+	url = https://github.com/intrepidcs/VALUECAN4_STM32F301.git
+[submodule "Targets/FIRE2_STM32F415"]
+	path = Targets/FIRE2_STM32F415
+	url = https://github.com/intrepidcs/FIRE2_STM32F415.git
+[submodule "Targets/FIRE2_BLE_NRF51"]
+	path = Targets/FIRE2_BLE_NRF51
+	url = https://github.com/intrepidcs/FIRE2_BLE_NRF51.git
