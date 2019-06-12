@@ -13,3 +13,11 @@
 [submodule "Targets/FIRE2_BLE_NRF51"]
 	path = Targets/FIRE2_BLE_NRF51
 	url = https://github.com/intrepidcs/FIRE2_BLE_NRF51.git
+[submodule "Targets/NEODEVICE_STM32F301"]
+	path = Targets/NEODEVICE_STM32F301
+	url = https://github.com/intrepidcs/NEODEVICE_STM32F301.git
+	branch = master
+[submodule "Targets/NEODEVICE_STM32F415"]
+	path = Targets/NEODEVICE_STM32F415
+	url = https://github.com/intrepidcs/NEODEVICE_STM32F415.git
+	branch = master
