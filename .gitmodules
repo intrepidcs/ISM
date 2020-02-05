@@ -21,3 +21,9 @@
 	path = Targets/NEODEVICE_STM32F415
 	url = https://github.com/intrepidcs/NEODEVICE_STM32F415.git
 	branch = master
+[submodule "Targets/OBD2LC_WIFI_CC32XX"]
+	path = Targets/OBD2LC_WIFI_CC32XX
+	url = https://github.com/intrepidcs/OBD2LC_WIFI_CC32XX.git
+[submodule "Targets/OBD2LC_BLE_NRF52"]
+	path = Targets/OBD2LC_BLE_NRF52
+	url = https://github.com/intrepidcs/OBD2LC_BLE_NRF52.git
